@@ -1,0 +1,45 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="Fox Premium 1 Ao Vivo"
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxpremium1_1bdf1a2f_a89a55c9dcd42b3374acefac31e8555bfea6faa2/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOjNkMmI6MWZjNzo5MzVlOjRlMWIiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg4LjAiO2k6MjtpOjE2MjEyNjQ3NzQ7fQ%3D%3D
+#EXTINF:-1 tvg-logo="Space Ao Vivo"
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/space_e6c3dd63_766ac05847d288aca1971137d71f7788adf321b4/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOjNkMmI6MWZjNzo5MzVlOjRlMWIiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg4LjAiO2k6MjtpOjE2MjEyNjUwMjg7fQ%3D%3D
+#EXTINF:-1 tvg-logo="Canal Sony Ao Vivo"	
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sony_06349be7_30542fa780f35605f01975665b05e31c33dcfbc4/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOjNkMmI6MWZjNzo5MzVlOjRlMWIiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg4LjAiO2k6MjtpOjE2MjEyNjUxOTM7fQ%3D%3D
+#EXTINF:-1 tvg-logo="Cinemax Ao Vivo"
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cinemax_22d200f8_3a67f7c225aff797a0ef869ff4819c8cad20b280/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOjNkMmI6MWZjNzo5MzVlOjRlMWIiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg4LjAiO2k6MjtpOjE2MjEyNjUzNzI7fQ%3D%3D
+EXTINF:-1 tvg-logo="Assistir Globo Ao Vivo em HD"
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8?md5=Ge1VRkFe0Xyrz3NmFo_XOA&expires=1621300608
+EXTINF:-1 tvg-logo="Assistir Fox Sports Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8?md5=cNpm23-IOiQc31lcnfe-yA&expires=1621300784
+EXTINF:-1 tvg-logo="Telecine Action"	
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8?md5=6s7k3-RmSANC1mhcnXkwQg&expires=1621300749
+EXTINF:-1 tvg-logo="Pipoca Ao Vivo"	
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8?md5=wDcrDwh83iAWeJ2nmS_0zQ&expires=1621301111
+EXTINF:-1 tvg-logo="Assistir Telecine Fun Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8?md5=UYyPHXz6UohKcZLrR23x5Q&expires=1621300769
+EXTINF:-1 tvg-logo="HBO 2 Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2sd/video.m3u8?md5=OVXrqmrm3m67c0sWJZJZFQ&expires=1621301276
+EXTINF:-1 tvg-logo="HBO Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/hbosd/video.m3u8?md5=molW1pfw08GIqf1tawptkg&expires=1621300577
+EXTINF:-1 tvg-logo="Paramount Channel Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/live/paramountchannelhd/video.m3u8?md5=pskPySt-8yz6zF8H7KUyog&expires=1621301236
+EXTINF:-1 tvg-logo=" Globo RJ Ao Vivo"
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8?md5=jwvXqRcpIe571fPXWu7ngQ&expires=1621300535
+EXTINF:-1 tvg-logo="sony_06349be7"
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sony_06349be7_30542fa780f35605f01975665b05e31c33dcfbc4/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOjNkMmI6MWZjNzo5MzVlOjRlMWIiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg4LjAiO2k6MjtpOjE2MjEyNjc4Njc7fQ%3D%3D
+EXTINF:-1 tvg-logo="Hote Online Sexo"	
+https://streaming.cometa.link/a/hls1/sexhot.m3u8?mu3zAQc9HC3GbwJq=7uaoLedOo-6qEqyrIzcemg&3U1G7qaTxrPbalZnEx=1621296908
+EXTINF:-1 tvg-logo="AXN"
+https://streaming.cometa.link/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=jlAqIaAsyhAT7qHI4YJoMg&3U1G7qaTxrPbalZnEx=1621297178
+
+
+
+
+
+
+
+
+
+
